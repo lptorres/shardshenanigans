@@ -60,6 +60,12 @@
     "payout": "20:00"
   },
   {
+    "name": "srbonus",
+    "emoji": ":flag_br:",
+    "swgoh.gg": "<https://swgoh.gg/p/732769674/>",
+    "payout": "21:00"
+  },
+  {
     "name": "darthbane",
     "emoji": ":flag_us:",
     "swgoh.gg": "<https://swgoh.gg/p/792872964/>",
