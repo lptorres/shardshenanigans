@@ -6,10 +6,16 @@
     "payout": "08:00"
   },
   {
+    "name": "israel",
+    "emoji": ":flag_es:",
+    "swgoh.gg": "<https://swgoh.gg/p/135237428>",
+    "payout": "11:00"
+  },
+  {
     "name": "cassel",
     "emoji": ":flag_kr:",
     "swgoh.gg": "<https://swgoh.gg/p/966939667/>",
-    "payout": "13:00"
+    "payout": "12:00"
   },
   {
     "name": "dark spider or some shit",
@@ -106,5 +112,11 @@
     "emoji": ":flag_us:",
     "swgoh.gg": "<https://swgoh.gg/p/623751728/>",
     "payout": "02:00"
-  }
+  },
+  {
+    "name": "dowi",
+    "emoji": ":flag_us:",
+    "swgoh.gg": "<https://swgoh.gg/p/623751728/>",
+    "payout": "02:00"
+  },  
 ]
